@@ -5,7 +5,7 @@ npm install
 npm start
 ```
 
-It should open your browser automatically.
+It should open a new tab in you Google Chrome automatically.
 
 Now you can play around: filter product names, check the check box.
 
